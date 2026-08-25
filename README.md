@@ -25,12 +25,12 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neverleans&theme=transparent&bg_color=0a0a0a&text_color=00ffbd&icon_color=00ffbd&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverleans&theme=transparent&bg_color=0a0a0a&text_color=00ffbd&icon_color=00ffbd&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neverleans&theme=github_dark" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neverleans&theme=transparent&background=0a0a0a&text_color=00ffbd&ring=00ffbd&fire=7b2cbf&currStreakLabel=00ffbd&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neverleans&theme=github_dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neverleans&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---

@@ -84,37 +84,63 @@ Clique em cada tecnologia para acessar a documentação oficial 👇
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects & Systems Architecture
 
-### [Nexus](https://nexus.duplafacesistemas.com) — Plataforma Multi-Atendente WhatsApp *(Comercial)*
-> Sistema SaaS multi-tenant com automação de IA, chat em tempo real, analytics e broadcast
+### 🏢 Commercial Systems in Production *(Proprietary)*
+
+#### [Nexus](https://nexus.duplafacesistemas.com) — Enterprise Multi-Agent WhatsApp SaaS
+> Scalable multi-tenant customer communication platform featuring real-time WebSockets, broadcast engine, and AI automation.
 >
-> `React` `TypeScript` `NestJS` `MySQL` `Redis` `Baileys` `TRPC` `Docker`
+> `React` `TypeScript` `NestJS` `MySQL` `Redis` `WebSockets` `Docker`
 
-### [Kortex Fiscal](https://kortexfiscal.duplafacesistemas.com) — Emissão NFS-e Multi-Tenant *(Comercial)*
-> Sistema completo de emissão de notas fiscais eletrônicas integrado à SEFAZ
+#### [Kortex Fiscal](https://kortexfiscal.duplafacesistemas.com) — Multi-Tenant Electronic Invoicing (NFS-e)
+> Mission-critical fiscal compliance system integrated directly with Brazilian SEFAZ tax authority APIs and automated batch processing.
 >
 > `Node.js` `Express` `PostgreSQL` `ACBrMonitor` `Docker`
 
-### [DuplaDesk](https://helpdesk.duplafacesistemas.com) — Software de Acesso Remoto *(Comercial)*
-> Alternativa ao AnyDesk com Electron + WebRTC, multi-monitor, transferência de arquivos
+#### [DuplaDesk](https://helpdesk.duplafacesistemas.com) — Remote Desktop & Screen Streaming Client
+> High-performance AnyDesk alternative featuring native Electron + WebRTC multi-monitor streaming and low-latency file transfer.
 >
 > `Electron` `WebRTC` `Socket.io` `Node.js`
 
-### [PlugStore](https://github.com/neverleans/plug-store) — Framework E-commerce
-> Framework headless para e-commerce brasileiro com Pix, WhatsApp checkout, 50+ temas
->
-> `React` `TypeScript` `TailwindCSS` `PWA`
+---
 
-### [Kapimind](https://github.com/neverleans/kapimind) — Plataforma de Investimentos com IA
-> Plataforma pessoal com IA para investimentos, alertas 24/7, calculadoras, IR automático
->
-> `Next.js` `NestJS` `PostgreSQL` `Anthropic SDK` `BullMQ`
+### 🌐 Open Source & Public Engineering *(Auditable Repositories)*
 
-### [Observatório Eleitoral](https://github.com/neverleans/observatorio-eleitoral) — Plataforma Cívica
-> Painel de auditoria eleitoral com dados do TSE, simulador de urna e IA
+#### [Kapimind](https://github.com/neverleans/kapimind) — AI Investment Intelligence & Portfolio Engine
+> Full-stack wealth management platform with **165+ automated tests**, Playwright E2E suites, NestJS API, Redis caching, and financial sentiment analysis.
 >
-> `React` `TypeScript` `Node.js` `WCAG 2.1 AAA`
+> `Next.js` `NestJS` `PostgreSQL` `Redis` `Vitest (165 tests)` `Playwright` `BullMQ`
+
+#### [PlugStore](https://github.com/neverleans/plug-store) — Headless E-Commerce & Storefront Framework
+> Production-ready Turborepo framework for Brazilian digital commerce with instant Pix payments, WhatsApp checkout, and 50+ industry themes.
+>
+> `Turborepo` `TypeScript` `React` `TailwindCSS` `Pix API` `PWA`
+
+#### [DeskVoice](https://github.com/neverleans/deskvoice) — Enterprise Telephony & Omni-Channel Support
+> Modern business communication suite powered by a high-throughput NestJS Fastify backend, WebSockets real-time gateway, and Svelte frontend.
+>
+> `NestJS` `Fastify` `Svelte` `WebSockets` `Redis` `TypeScript`
+
+#### [Digital Wallet Core API](https://github.com/neverleans/Wallet-App) — High-Concurrency Financial Ledger
+> Resilient financial transfer engine implementing pessimistic database locking (`lockForUpdate`), ACID transaction isolation, and idempotency control.
+>
+> `PHP` `Laravel` `MySQL` `Redis` `Pessimistic Locks` `Docker` `PHPUnit`
+
+#### [CarbonLens](https://github.com/neverleans/calculadora-de-impacto-ambiental) — Auditable GHG Protocol Carbon Accounting
+> Mathematical carbon accounting engine and ESG scenario simulator compliant with GHG Protocol (Scopes 1, 2, 3), validated with Vitest.
+>
+> `TypeScript` `Vitest` `KaTeX` `GHG Protocol` `Climate-Tech` `GitHub Actions`
+
+#### [Observatório Eleitoral](https://github.com/neverleans/observatorio-eleitoral) — Civic Transparency & Electoral Auditor
+> Open data auditor processing official Brazilian TSE election datasets with WCAG 2.1 AAA universal accessibility and interactive simulations.
+>
+> `React` `TypeScript` `Node.js` `WCAG 2.1 AAA` `Open Data`
+
+#### [Bible Study & Exegesis Platform](https://github.com/neverleans/bible-study-app) — AI-Assisted Scripture Analytics
+> Theological research platform featuring semantic cross-referencing, original language lexicons, and offline-first cloud synchronization.
+>
+> `TypeScript` `React` `AI Integration` `Cloud Sync` `Offline-First`
 
 ---
 

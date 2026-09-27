@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, eu sou Lucas Ventavele Ribeiro
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Lucas Ventavele Ribeiro
 
-### 💼 Desenvolvedor Full Stack Sênior · Engenharia de IA & Automação
+### 💼 Senior Full Stack Developer · AI Engineering & Automation
 
 <p align="center">
   <a href="https://github.com/neverleans"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -12,17 +12,17 @@
 
 ---
 
-## 🔭 Status Atual
+## 🔭 Current Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aberto_a_projetos_paralelo-00ffbd?style=for-the-badge&logoColor=black" alt="Status"/>
-  <img src="https://img.shields.io/badge/Guaran%C3%A9sia,_MG-00ffbd?style=for-the-badge&logoColor=black" alt="Localização"/>
-  <img src="https://img.shields.io/badge/Full_Stack_+_IA%2FAutoma%C3%A7%C3%A3o-7b2cbf?style=for-the-badge&logoColor=white" alt="Foco"/>
+  <img src="https://img.shields.io/badge/Status-Open_for_Projects-059669?style=for-the-badge&labelColor=0f172a" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Guaran%C3%A9sia,_MG,_Brazil-0284c7?style=for-the-badge&labelColor=0f172a" alt="Location"/>
+  <img src="https://img.shields.io/badge/Core_Focus-Full_Stack_+_AI-7b2cbf?style=for-the-badge&labelColor=0f172a" alt="Focus"/>
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neverleans&theme=github_dark" alt="GitHub Profile Summary"/>
@@ -37,7 +37,7 @@
 
 ## 🛠️ Stack Técnica
 
-Clique em cada tecnologia para acessar a documentação oficial 👇
+Click on each technology to view its official documentation 👇
 
 ### 💻 Frontend & Interfaces
 <p>
@@ -144,38 +144,38 @@ Clique em cada tecnologia para acessar a documentação oficial 👇
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-### 🏢 DuplaFace Sistemas — Remoto | Nov 2025 - Atual
-**Full Stack Developer Sênior**
-- Plataforma SaaS de atendimento WhatsApp multi-tenant
-- Sistema de emissão NF-e integrado à SEFAZ
-- Dashboard ERP em tempo real com WebSocket
-- Software de acesso remoto (DuplaDesk)
+### 🏢 DuplaFace Sistemas — Remote | Nov 2025 - Present
+**Senior Full Stack Developer**
+- Architected multi-tenant omni-channel WhatsApp communication SaaS platforms.
+- Developed mission-critical electronic invoicing engines (NF-e/NFS-e) integrated with government SEFAZ APIs.
+- Built real-time ERP operational dashboards using WebSockets and event-driven telemetry.
+- Engineered low-latency remote desktop streaming software (DuplaDesk) with Electron & WebRTC.
 
-### 🏢 Sellentt — Guaxupé, MG | Ago 2020 - Jan 2024
+### 🏢 Sellentt — Guaxupé, MG | Aug 2020 - Jan 2024
 **Full Stack Developer**
-- Plataforma SaaS ERP/CRM B2B para médias/grandes empresas
-- Módulo de CRM com funil de vendas e marketing automatizado
-- Angular/TypeScript + Laravel/PHP
+- Engineered B2B enterprise ERP/CRM SaaS platforms for mid-to-large corporate organizations.
+- Implemented automated sales pipeline funnels, commercial workflows, and CRM modules.
+- Modernized legacy modules using Angular/TypeScript on the frontend and Laravel/PHP on the backend.
 
 ---
 
-## 📈 Números que Importam
+## 📈 Key Impact Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/5%2B_anos_de_experi%C3%AAncia-00ffbd?style=flat-square" alt="Experiência"/>
-  <img src="https://img.shields.io/badge/10%2B_sistemas_em_produ%C3%A7%C3%A3o-00ffbd?style=flat-square" alt="Sistemas"/>
-  <img src="https://img.shields.io/badge/40%2B_tecnologias_no_stack-00ffbd?style=flat-square" alt="Tecnologias"/>
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs_avan%C3%A7ado_B2-00ffbd?style=flat-square" alt="Inglês"/>
+  <img src="https://img.shields.io/badge/Experience-5%2B_Years-059669?style=flat-square&labelColor=0f172a" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Production_Systems-10%2B-0284c7?style=flat-square&labelColor=0f172a" alt="Production Systems"/>
+  <img src="https://img.shields.io/badge/Automated_Tests-165%2B-6366f1?style=flat-square&labelColor=0f172a" alt="Automated Tests"/>
+  <img src="https://img.shields.io/badge/English-Proficient_B2-059669?style=flat-square&labelColor=0f172a" alt="English"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neverleans&label=Profile+views&color=00ffbd&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=neverleans&label=Profile+views&color=059669&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <strong>💼 Aberto a projetos PJ / CLT / Freelance · Remoto · Guaranésia, MG</strong>
+  <strong>💼 Open for Senior Full Stack Roles, High-Impact Contracts (B2B/PJ) & Global Remote Opportunities</strong>
 </p>
